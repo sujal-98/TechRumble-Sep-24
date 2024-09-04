@@ -24,14 +24,6 @@ const mongoose = require('mongoose');
 
 
 
-
-
-
-
-
-
-
-
 // Define the schema for the Movie model
 const movieSchema = new mongoose.Schema({
  

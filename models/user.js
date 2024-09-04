@@ -21,8 +21,6 @@ const bcrypt = require('bcryptjs'); // Import bcrypt for password hashing
 
 
 
-
-
 // Define the schema for the User model
 const userSchema = new mongoose.Schema({
 
